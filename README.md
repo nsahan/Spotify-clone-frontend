@@ -12,9 +12,6 @@ This project is the frontend for a Spotify clone application built using the MER
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-![Demo Screenshot](link_to_your_screenshot)
 
 ## Features
 
